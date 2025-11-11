@@ -1,7 +1,7 @@
 # Interactive Healthcare Analytics Dashboard
 This project features a Health Care Analytics Dashboard designed to segment the total patient population based on key health metrics, including risk factors, weight, and chronic disease prevalence (Heart Attack, Stroke). The primary business goal is to identify high-risk patient segments to prioritize preventative health programs and resource allocation.
 
-Key Metrics Tracked:
+Key Metrics:
 
 Total Patients: 2,004
 
